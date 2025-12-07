@@ -6,7 +6,6 @@
 | **Mata Kuliah** | Praktikum Data Science |
 | **Nama** | [Nama Mahasiswa] |
 | **NIM** | [NIM Mahasiswa] |
-| **Tanggal** | 8 Desember 2024 |
 
 ---
 
