@@ -409,166 +409,74 @@ Analisis Feature Importance mengkonfirmasi hal ini: **Price per Unit berkontribu
 
 ## 5. IMPLEMENTATION PLAN
 
-### 5.1 Roadmap Implementasi
+### Roadmap 12 Minggu
 
-**FASE 1: Quick Wins (Minggu 1-2)**
-- Realokasi budget marketing
-- Launch kampanye Champions/High Value
-- Setup monitoring dashboard
+| Fase | Timeline | Action Items |
+|------|----------|--------------|
+| **Quick Wins** | Minggu 1-2 | Realokasi budget marketing, Launch kampanye Champions, Setup dashboard |
+| **Process Improvement** | Minggu 3-6 | Implementasi inventori optimal (84/97/92 unit), Kalender promosi, A/B testing pricing |
+| **Strategic Initiatives** | Minggu 7-12 | Roll out tiered pricing, Automated re-engagement At Risk, Full system integration |
 
-↓
+### KPI & Risk Monitoring
 
-**FASE 2: Process Improvement (Minggu 3-6)**
-- Implementasi sistem ordering inventori baru
-- Launch kalender promosi untuk low-performing periods
-- A/B testing strategi pricing
-
-↓
-
-**FASE 3: Strategic Initiatives (Minggu 7-12)**
-- Roll out tiered pricing
-- Automated re-engagement untuk At Risk
-- Full system integration
-
-### 5.2 Detail Action Items
-
-#### Fase 1: Quick Wins (Minggu 1-2)
-
-| Action Item | Owner | Timeline | Status |
-|-------------|-------|----------|--------|
-| Realokasi budget marketing sesuai hasil optimasi | Marketing Manager | Day 1-3 | ⬜ |
-| Mulai kampanye engagement untuk Champions | Marketing Team | Day 4-7 | ⬜ |
-| Setup KPI monitoring dashboard | Data Analyst | Day 7-14 | ⬜ |
-
-#### Fase 2: Process Improvement (Minggu 3-6)
-
-| Action Item | Owner | Timeline | Status |
-|-------------|-------|----------|--------|
-| Implementasi sistem ordering inventori (84/97/92 unit) | Operations Manager | Week 3-4 | ⬜ |
-| Launch promotional calendar | Marketing Team | Week 4-5 | ⬜ |
-| A/B testing pricing strategy (-10%) | Pricing Team | Week 5-6 | ⬜ |
-
-#### Fase 3: Strategic Initiatives (Minggu 7-12)
-
-| Action Item | Owner | Timeline | Status |
-|-------------|-------|----------|--------|
-| Roll out tiered pricing semua kategori | Pricing Team | Week 7-8 | ⬜ |
-| Implementasi automated re-engagement At Risk | CRM Team | Week 8-10 | ⬜ |
-| Full optimization system integration | IT Team | Week 10-12 | ⬜ |
-
-### 5.3 KPI Monitoring
-
-| Metrik | Baseline | Target | Frekuensi |
-|--------|----------|--------|-----------|
-| Revenue per kategori | Current | +10% YoY | Mingguan |
-| Customer segment migration | 0% | 20% At Risk → Recent | Bulanan |
-| Inventory turnover ratio | Current | >95% service level | Mingguan |
-| Marketing campaign ROI | Current | >150% | Per campaign |
-| Customer acquisition cost | Current | -10% | Bulanan |
-
-### 5.4 Risk Assessment & Mitigation
-
-| Risiko | Likelihood | Impact | Mitigasi |
-|--------|------------|--------|----------|
-| Price sensitivity backlash | Medium | High | A/B test sebelum full rollout |
-| Stockout during transition | Low | High | Maintain 30% safety buffer |
-| Customer segment overlap | Low | Medium | Clear segment definitions |
-| System integration delays | Medium | Medium | Phased rollout approach |
-| Staff resistance to change | Medium | Medium | Training dan communication |
+| Metrik Utama | Target | Risiko Utama | Mitigasi |
+|--------------|--------|--------------|----------|
+| Revenue per kategori | +10% YoY | Price sensitivity | A/B test dulu |
+| Segment migration | 20% At Risk → Recent | Stockout transisi | Safety buffer 30% |
+| Campaign ROI | >150% | Integration delays | Phased rollout |
 
 ---
 
 ## 6. EXPECTED BUSINESS IMPACT
 
-### 6.1 Quantified Business Impact
+### Ringkasan Dampak Tahunan
 
-| Impact Area | Value | Timeframe | Confidence |
-|-------------|-------|-----------|------------|
-| **Revenue Optimization** | | | |
-| └─ Marketing reallocation | +$92.500 | Annual | High (85%) |
-| └─ Pricing strategy | +$15.000 | Annual | Medium (50%) |
-| └─ What-if scenarios | +$45.000 | Annual | Medium (50%) |
-| **Cost Reduction** | | | |
-| └─ Inventory optimization | -$11.028 | Annual | High (90%) |
-| **Churn Prevention** | | | |
-| └─ At Risk retention | +$10.857 | Annual | Medium (60%) |
+| Area | Dampak | Confidence |
+|------|--------|------------|
+| Marketing reallocation | +$92.500 | High (85%) |
+| Inventory optimization | -$11.028 cost | High (90%) |
+| At Risk retention | +$10.857 | Medium (60%) |
+| Pricing + What-if | +$27.249* | Medium (50%) |
+| **TOTAL** | **+$130.634** | - |
 
-### 6.2 Total Expected Impact
+*Implementasi parsial dengan 50% probability
 
-**TOTAL EXPECTED ANNUAL IMPACT**
+### Financial Summary
 
-| Estimasi | Nilai |
-|----------|-------|
-| Conservative Estimate | +$114.385 |
-| Optimistic Estimate | +$174.385 |
-| **Expected Value** | **+$130.634** |
-| ROI on Implementation Costs | 261% |
+| Metrik | Nilai |
+|--------|-------|
+| Implementation Cost | $50.000 |
+| Expected Annual Return | $130.634 |
+| **ROI** | **261%** |
+| **Break-even** | **4,6 bulan** |
 
-### 6.3 Break-Even Analysis
-
-| Investment | Value |
-|------------|-------|
-| Implementation cost (estimated) | $50.000 |
-| Monthly benefit | $10.886 |
-| **Break-even point** | **4,6 bulan** |
-
-### 6.4 Long-Term Benefits
-
-Selain dampak finansial langsung, implementasi rekomendasi ini juga memberikan manfaat jangka panjang:
-
-1. **Data-Driven Culture:** Membangun budaya pengambilan keputusan berbasis data
-2. **Process Efficiency:** Otomatisasi proses inventory dan marketing
-3. **Customer Understanding:** Pemahaman lebih dalam terhadap segmen pelanggan
-4. **Competitive Advantage:** Keunggulan kompetitif melalui optimasi operasional
-5. **Scalability:** Framework analisis dapat direplikasi untuk produk/pasar baru
-
-### 6.5 Success Criteria
-
-| Kriteria | Threshold | Measurement |
-|----------|-----------|-------------|
-| Overall ROI | >150% | 6-month review |
-| Revenue growth | >8% YoY | Quarterly |
-| Cost reduction | >5% | Monthly |
-| Customer retention | >80% | Quarterly |
-| Service level | >95% | Weekly |
+### Long-Term Benefits
+Data-driven culture • Process automation • Customer insights • Competitive advantage • Scalable framework
 
 ---
 
 ## KESIMPULAN
 
-Analisis prescriptive analytics terhadap dataset retail sales berhasil menghasilkan **5 rekomendasi strategis** dengan total estimasi dampak bisnis sebesar **+$130.634 per tahun**. Rekomendasi ini mencakup optimasi marketing, inventori, pricing, dan customer retention yang dapat diimplementasikan dalam **12 minggu** melalui pendekatan bertahap.
+Analisis prescriptive analytics menghasilkan **5 rekomendasi strategis** dengan dampak **+$130.634/tahun**:
+1. Realokasi marketing ke Champions/High Value (+$92.500)
+2. Optimasi inventori 273 unit (-$919/bulan)
+3. Kampanye intensif September (+15-20%)
+4. Retention 366 At Risk customers ($10.857)
+5. Strategi pricing berbasis elastisitas (+$15.000)
 
-Dengan ROI implementasi sebesar **261%** dan break-even point hanya **4,6 bulan**, proyek ini memberikan justifikasi bisnis yang kuat untuk segera dieksekusi.
+**ROI 261%** dengan break-even **4,6 bulan** — justifikasi kuat untuk eksekusi segera.
 
 ---
 
 ## LAMPIRAN
 
-### Lampiran A: Visualisasi
-
-| No | File | Deskripsi |
-|----|------|-----------|
-| 1 | `plot1_category_analysis.png` | Revenue per kategori |
-| 2 | `plot2_demographics.png` | Analisis demografi |
-| 3 | `plot3_time_analysis.png` | Tren temporal |
-| 4 | `plot4_customer_segments.png` | Segmentasi pelanggan |
-| 5 | `plot5_prediction_model.png` | Model performance |
-| 6 | `plot6_optimization.png` | Hasil optimasi |
-
-### Lampiran B: Source Code
-
-| File | Deskripsi |
-|------|-----------|
-| `prescriptive_analytics.ipynb` | Jupyter Notebook lengkap |
-| `run_analysis.py` | Python script analisis |
-| `verify_values.py` | Script verifikasi |
-
-### Lampiran C: Dataset
-
-| File | Deskripsi |
-|------|-----------|
-| `retail_sales_dataset.csv` | Dataset utama (1.000 records) |
+| Kategori | File | Deskripsi |
+|----------|------|-----------|
+| **Visualisasi** | `plot1-6_*.png` | 6 plot analisis (kategori, demografi, temporal, segmen, model, optimasi) |
+| **Source Code** | `prescriptive_analytics.ipynb`, `run_analysis.py` | Notebook + script Python |
+| **Dataset** | `retail_sales_dataset.csv` | 1.000 transaksi retail |
 
 ---
 
-*Laporan ini dibuat sebagai tugas akhir Praktikum Data Science.*
+*Laporan Praktikum Data Science — Prescriptive Analytics*
+
